@@ -1,4 +1,4 @@
-# Python Interview Prep
+# Python Interview Preperation
 
 This repository contains Python programs I'm building while preparing for interviews and improving my coding skills.
 
