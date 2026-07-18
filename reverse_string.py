@@ -7,4 +7,4 @@ def reverse_string(s):
         reversed_str = char + reversed_str   # add new char to the FRONT
     return reversed_str
 
-print(reverse_string("hello"))
+print(reverse_string("Dad"))
