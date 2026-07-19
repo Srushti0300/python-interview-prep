@@ -1,2 +1,3 @@
-name = input("Enter your name: ")
-print("Hello", name is)
+print("Hello World")
+print("My name is Srushti Jamdar")
+print("Learning GitHub with ChatGPT!")
