@@ -1,5 +1,5 @@
 a = 10
-b = 10.5
+b = 10.6
 c = "Python"
 d = True
 
