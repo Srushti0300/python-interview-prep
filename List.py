@@ -3,3 +3,6 @@ print(marks)
 print(type(marks))
 print(len(marks))
 print(marks[0])
+
+#list slicing
+print(marks[1:4])
