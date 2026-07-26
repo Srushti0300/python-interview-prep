@@ -14,3 +14,9 @@ print(list)
 #sort
 list.sort()  #sorts in ascending order
 print(list) 
+
+list.sort(reverse=True)  #sorts in descending order
+print(list)
+
+list.reverse()   #reverse list
+print(list)
