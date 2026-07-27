@@ -1,4 +1,4 @@
-list = [12,13,14,15,25,23]
+list = [35,44,10,3,4,22,17]
 print(list)
 print(type(list))
 print(len(list))
@@ -19,4 +19,7 @@ list.sort(reverse=True)  #sorts in descending order
 print(list)
 
 list.reverse()   #reverse list
+print(list)
+
+list.insert(1,50)
 print(list)
