@@ -13,3 +13,4 @@ def is_palindrome(s):
 print(is_palindrome("madam"))
 print(is_palindrome("hello"))
 print(is_palindrome("Dad"))
+print(is_palindrome("Mom"))
