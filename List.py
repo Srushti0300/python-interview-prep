@@ -21,5 +21,11 @@ print(list)
 list.reverse()   #reverse list
 print(list)
 
-list.insert(1,50)
+list.insert(1,50) #insert a new elements
+print(list)
+
+list.remove(10)  #removes an element
+print(list)
+
+list.pop(2)
 print(list)
