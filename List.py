@@ -27,5 +27,5 @@ print(list)
 list.remove(10)  #removes an element
 print(list)
 
-list.pop(2)
+list.pop(3)
 print(list)
