@@ -1,6 +1,6 @@
 a = 10
 b = 10.6
-c = "Python"
+c = "Aritificial Intelligence and Data Science"
 d = True
 
 print(type(a))
