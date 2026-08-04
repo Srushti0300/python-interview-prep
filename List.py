@@ -5,10 +5,10 @@ print(len(list))
 print(list[0])
 
 #list slicing
-print(list[1:3])
+print(list[1:5])
 
 #append
-list.append(92)  #adds one element at the end
+list.append(22)  #adds one element at the end
 print(list)
 
 #sort
@@ -21,11 +21,11 @@ print(list)
 list.reverse()   #reverse list
 print(list)
 
-list.insert(1,51) #insert a new elements
+list.insert(1,52) #insert a new elements
 print(list)
 
-list.remove(44)  #removes an element
+list.remove(3)  #removes an element
 print(list)
 
-list.pop(1)
+list.pop(2)
 print(list)
