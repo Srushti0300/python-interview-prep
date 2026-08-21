@@ -1,5 +1,5 @@
 a = 10
-b = 10.6
+b = 10.5
 c = "Aritificial Intelligence and Data Science"
 d = True
 
