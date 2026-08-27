@@ -1,4 +1,4 @@
-list = [35,44,10,3,4,22,17,94]
+list = [35,44,10,3,4,22,17]
 print(list)
 print(type(list))
 print(len(list))
