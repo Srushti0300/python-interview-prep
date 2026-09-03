@@ -1,4 +1,4 @@
-name = "Srushti Jamdar"
+name = "Srushti Navnath Jamdar"
 age = 21
 
 print(name)
